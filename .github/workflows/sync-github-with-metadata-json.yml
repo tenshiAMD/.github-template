@@ -1,0 +1,12 @@
+name: Sync Repo Metadata
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  sync_repo_metadata:
+    uses: tenshiAMD/.github/.github/workflows/sync-github-with-metadata-json.yml@master
