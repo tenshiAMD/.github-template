@@ -16,6 +16,8 @@
     "url": "https://github.com/tenshiAMD/template/issues"
   },
   "homepage": "https://github.com/tenshiAMD/template#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0"
+  }
 }
