@@ -1,0 +1,21 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenshiAMD/template.git"
+  },
+  "author": "Angel Aviel Domaoan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenshiAMD/template/issues"
+  },
+  "homepage": "https://github.com/tenshiAMD/template#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
