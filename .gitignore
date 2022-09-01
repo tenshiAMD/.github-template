@@ -2,3 +2,5 @@ tmp/*
 !tmp/.keep
 
 node_modules
+
+lefthook-local.yml
