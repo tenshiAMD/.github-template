@@ -1,0 +1,5 @@
+[codespell]
+skip = node_modules,*-lock.json
+ignore-words=codespell.txt
+quiet-level = 3
+count =
