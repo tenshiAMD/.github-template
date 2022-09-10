@@ -1,1 +1,4 @@
 # Configuration for probot autolabeler - https://github.com/mithro/autolabeler
+
+# Pull request has files in it that it shouldn't!
+broken: ["node_modules", ".env", "lefthook-local.yml", "*.pem"]
